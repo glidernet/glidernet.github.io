@@ -1,4 +1,4 @@
-Under construction. You can refer to http://wiki.glidernet.org for the time being.
+Website under construction. You can refer to [http://wiki.glidernet.org] for the time being.
 
 # Welcome to The Open Glider Network project!
 
