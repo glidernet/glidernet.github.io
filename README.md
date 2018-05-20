@@ -6,7 +6,7 @@ The objective of the Open Glider Network is to create and maintain a unified tra
 
 The tracking data is freely available to anyone.
 
-!(OGN_Arch.png)
+![OGN Architecture](OGN_Arch.png)
 
 
 Today FLARM is mainly utilized in gliders, however other small aircraft (planes, helicopters, deltas, para-gliders or even drones) are more and more often equipped with it, especially if operating in the areas intensively used by gliders, such as the Alps.
