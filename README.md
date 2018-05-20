@@ -21,7 +21,8 @@ The OGN is a community project. It is based on software, hardware, receivers and
 * Software for Linux that can be installed on a PC or small mini-board computers (such as the Raspberry Pi, Cubieboard2, Odroid U3, etc.). It drives a USB DVB-T radio receiver and listens for, decodes, sends the position reports and participates in the OGN network.
 * Websites and applications that can use and display the data. The most obvious use is to track aircraft on a moving map in real time, another use would be search and rescue (SAR), automatic flight logs, etc.
 
-The OGN is growing and evolving. It is a work in progress and there is still much work to be done. You can help by:
+## The OGN is growing and evolving.
+It is a work in progress and there is still much work to be done. You can help by:
 * Funding, installing and running a receiver at your gliding club, at your home or anywhere the OGN has a 'hole' in its coverage. The cost of receiver is probably less than two aerotows for most glider pilots.
 * Contributing your time to update, expand and maintain this Wiki, or improve the applications that use/ display/ share the OGN data or write your own application for the community.
 * joining and bringing new ideas of where and how OGN should evolve!
