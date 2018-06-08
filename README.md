@@ -2,7 +2,7 @@ Website under construction. You can refer to [wiki.glidernet.org](http://wiki.gl
 
 # Welcome to the OGN project!
 
-The objective of the Open Glider Network is to create and maintain a unified tracking platform for gliders, drones and other GA aircraft. Focused on tracking aircraft equipped with FLARM and OGN trackers, OGN is also open for integrating of other data sources (e.g. PilotAware, SPOT, FANET (paragliders), Spidertracks, …)
+The objective of the Open Glider Network is to create and maintain a unified tracking platform for gliders, drones and other aircraft. Focused on tracking aircraft equipped with FLARM and OGN trackers, OGN is also open for integrating of other data sources (e.g. PilotAware, SPOT, FANET (paragliders), Spidertracks, …)
 
 The tracking data is freely available to anyone as long as they follow [OGN data usage rules](ogn-data-usage/).
 
