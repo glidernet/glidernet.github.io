@@ -30,4 +30,6 @@ You can join us by subscribing to [our discussion group](https://groups.google.c
 
 Please refer to the About OGN section for more information.
 
+If you still can't find information you are looking for: please [drop us an email](mailto:contact@glidernet.org). 
+
 
